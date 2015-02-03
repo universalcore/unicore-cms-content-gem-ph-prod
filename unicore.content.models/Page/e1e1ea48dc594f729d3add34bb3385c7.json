@@ -4,14 +4,14 @@
   "language": "tgl_PH", 
   "title": "Nagkaloko-loko ang aking balat", 
   "primary_category": "2fdcd42cb85d4896a9849015c8918f65", 
-  "created_at": "2015-02-03T22:21:56.639065+00:00", 
+  "created_at": "2015-02-03T22:21:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T22:21:56.639256+00:00", 
+  "modified_at": "2015-02-03T22:25:30.913140+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "thandi", 
   "uuid": "e1e1ea48dc594f729d3add34bb3385c7"
