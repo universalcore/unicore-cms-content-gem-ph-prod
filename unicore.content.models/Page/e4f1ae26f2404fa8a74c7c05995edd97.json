@@ -6,15 +6,17 @@
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-02-03T22:34:13.774230+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T22:34:13.774423+00:00", 
+  "modified_at": "2015-02-27T05:42:46.513406+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "dd86246bdea24e61b8ba03d417c1a31d"
+  ], 
   "id": null, 
   "content": "**GUSTO BA NINYO NG MGA KAIBIGAN? MAGING ISANG MABUTING KAIBIGAN SA IBA** \r\n\r\nAng mga kaibigan ay nagpapasaya sa buhay at nagbabahagi ng bigat ng inyong mga suliranin. Hindi mahalaga kung ilan ang mga kaibigan ninyo. Ang pinakamahalaga ay ang pagiging isang mabuting kaibigan sa ibang taong mahal ninyo. May isang milyong paraan para maging isang mabuting kaibigan! Narito ang ilang mga ideya:\r\n\r\n - Ang gintong turo ay mag-isip ng kung ano ang gusto at kailangan mula sa isang kaibigan - at umaktong ganito sa inyong mga kaibigan. \r\n - Makinig sa inyong mga kaibigan at galangin ang mga opinyon ng iba - kahit kaiba ang kanilang ideya sa inyo.\r\n - Tanggapin ang inyong mga kaibigan kahit sino pa man sila. Ang mabubuting kaibigan ay hindi madalas mamintas sa kanilang mga kaibigan o sumubok na baguhin sila. Pahahalagahan ang inyong mga kaibigan kahit sino pa man sila at tratuhin sila gaya nang gusto ninyong tratuhin kayo.\r\n - LiMaging maunawain at mapagpatawad.  Ilagay ang inyong sarili sa kinatatayuan ng inyong kaibigan - lahat tayo ay nagkakamali.\r\n - Maging mapagkakatiwalaan. Ito ay nangangahulugan na gagawin ang ipinangako ninyo at hindi pagtaksilan ang inyong kaibigan. Huwag ipagkalat ang mga sikretong sinabi sa inyo ng inyong mga kaibigan, maliban na lang kung sila ay nasa panganib. Kung sila ay nasa panganib at nangangailangan ng tulong, humanap ng isang nasa hustong gulang na pinagkakatiwalaan ninyong kausapin.\r\n\r\n**Ang mga kaibigan ay sadyang mahalaga. Sila ang mga taong makikinig sa inyo at magtatago ng inyong mga sekreto. Nguni't ang matutunan na maging isang mabuting kaibigan ay hindi laging madali. Ito ay kwento ng isang babae.**", 
   "source": "466d6476c7234cdfac8a93598945c6b1", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-want-friends", 
   "uuid": "e4f1ae26f2404fa8a74c7c05995edd97"
