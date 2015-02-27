@@ -6,15 +6,17 @@
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-02-03T22:10:52.767241+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T22:10:52.767447+00:00", 
+  "modified_at": "2015-02-27T07:48:04.693575+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "184ffbfb5cec40809a1e47ba5585097b"
+  ], 
   "id": null, 
   "content": "**KAYO BA AY NASA MASAMANG GRUPO? MAGKAROON NG MABUBUTING KAIBIGAN PANGHABANGBUHAY** \r\n\r\n - Piliin nang tama ang inyong mga kaibigan. Paligiran ang inyong sarili ng mga taong positibo na hihikayat sa inyong patuloy na sumubok kahit kayo ay nawawalan na ng pag-asa. \r\n - Iwasang makipagkaibigan sa mga taong pinagtatawan kayo o humahamak sa inyo.  Sumama sa mga taong nagnanais ng magagandang bagay na katulad sa ninanais ninyo. Piliin ang mga kaibigan na may mga pangarap na manatili sa paaralan, magkaroon ng magagandang grado at bumuo ng mga oportunidad para sa kanilang mga sarili. Sila ay may magandang kinabukasan - katulad ninyo!\r\n - Ang mabuting kaibigan ay isang taong minamahal ninyo at sinusuportahan sa hirap at ginhawa. At ganun din sila sa inyo. Ang mga totoong kaibigan ay may direksiyon at pananaw para sa kanilang kinabukasan. Ang mga kaibigan ay nagtutulungan para maiwasang gumawa ng mga maling desisyon na maaaring maglagay sa kompromiso sa kanilang kinabukasan.\r\n - Maging isang mabuting kaibigan. Makinig, magbigay ng tulong, at maging maaasahan. Magtulungan, at patawarin ang kaibigan na nagkakamali. \r\n\r\nNagiging napakamapanganib ang ilang mga kapitbahayan - o mga baryo -- sa lungsod ng Bogota, Columbia, lalung-lalo na para sa mga dalagita dahil sa pangangalakal ng droga at ang kasalukuyang giyera. Ito ang kanyang kwento:", 
   "source": "8e2ab677eaf54667af590f3e5a5b4ffa", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-bad-crowd", 
   "uuid": "35963098deea439d8d5f245ce0295c8e"
