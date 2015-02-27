@@ -5,16 +5,18 @@
   "title": "Ako ay isang popular na babae: ", 
   "primary_category": "2fdcd42cb85d4896a9849015c8918f65", 
   "created_at": "2015-02-03T22:31:41+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-02-03T22:34:24.028496+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-27T05:52:18.171917+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e4f1ae26f2404fa8a74c7c05995edd97"
+  ], 
   "id": null, 
   "content": "*Ang mga kaibigan ay sadyang mahalaga. Sila ang mga taong makikinig sa inyo at magtatago ng inyong mga sekreto. Nguni't ang matutunan na maging isang mabuting kaibigan ay hindi laging madali. Ito ang kwento ng isang babae.* \r\n\r\nAko si Lina. Ako ay 15 taong gulang at nakatira sa Timog Africa. Dati na akong may mga kaibigan nguni't kapag binabalikan ko, hindi sila lahat naging mabuti para sa akin. Noong ako ay nag-aaral, madalas na nasa malaking grupo ako ng mga babae. Hindi sila kailanman nagmamalasakit kaninuman kundi sa kanilang mga sarili lang.  Hindi nila ako inaalalayan at hinihikayat nila akong gumawa ng masama. Tatawa sila kung binabastos ko sa aking mga magulang. Inisip nila na iyon ay magara. \r\n\r\nAyaw ko silang mawala bilang mga kaibigan kaya nagkunwari ako na magara rin iyon. \r\n\r\nKami ang 'magarang' mga babae sa paaralan - ang laging pinakapopular. Makakatanggap kami ng magagandang grado at pagkatapos, pagtatawanan namin ang mga babaeng nahihirapan sa klase. Tutuksuhin namin sila at tatawagin silang istupido. \r\n\r\nIsang araw, sinabi ng aking mga magulang na lilipat kami ng bayan. Ako ay sobrang nalungkot. Pakiramdam ko, nalayo ako sa mga kaibigan ko kahit hindi pa man kami umalis. Hindi ko alam ang aking gagawin kung wala ang aking grupo.\r\n\r\nPumasok ako sa bagong paaralan. Ito ay puno ng mga bagong mukha. Ngayon, hindi na ako ang magarang bata. Ako ang bagong salta. Ako ang siyang nag-iisa. \r\n\r\nUmiyak ako noong unang araw. Matagal akong umiyak sa paaralang iyon. \r\n\r\nNguni't nakilala ko si Marvi. Siya ay matatag. Alam niya ang pagkakaiba ng mali at tama at ipinahayag niya kung ano ang tama. Tinanggap niya ako agad at ipinadamang tanggap.  Naging magkakaibigan kami simula noong unang araw na nakilala ko siya. \r\nHigit kong natutunan ang mga tunay na kaibigan kasama siya. \r\n\r\nTinuruan niya ako na ang pagkakaibigan ay pagbabahagi ng inyong mga iniisip at mga nararamdaman. Ito ay ang pagbahagi ng inyong paglalakbay sa pakikipagsapalaran sa buhay - sa parehong mabuti at masama. \r\n\r\nIpinakita rin niya sa akin na ang pagkakaibigan ay ang pagiging mabuting tao at hindi ang pananakit sa mga tao na nakapaligid sa inyo o ang  pagiging malupit. Napagtanto ko ngayon na hindi ako naging mabuting kaibigan noon. \r\n\r\nMarami akong natutunan tungkol sa pagiging kaibigan. Hindi ko na tinutukso ang ibang mga babae o nagsasabi ng panghahamak na mga komento. Hindi ako nagtitsismis. Ako ay mabuti sa kanila, at sinusuportahan nila ako. \r\n\r\nAng tunay na kaibigan ay isang tunay na kapatid at isang biyaya sa inyong buhay. \r\n\r\n**Gusto ba ninyo ng mga kaibigan? Basahin ang lathalang ito at alamin kung paano maging isang tunay na kaibigan:**", 
   "source": "ebb26f354975477492af0fe1c3cf1e58", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Lina", 
   "uuid": "dd86246bdea24e61b8ba03d417c1a31d"
