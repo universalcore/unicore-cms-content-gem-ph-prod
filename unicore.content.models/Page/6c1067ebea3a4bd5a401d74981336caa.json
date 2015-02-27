@@ -6,15 +6,17 @@
   "primary_category": "2fdcd42cb85d4896a9849015c8918f65", 
   "created_at": "2015-02-03T19:55:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T19:58:56.424616+00:00", 
+  "modified_at": "2015-02-27T07:47:48.746542+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "281b7519e4624b0ba2c9119d0e4d7dda"
+  ], 
   "id": null, 
   "content": "*Inaasahan na maraming dalagita at babae sa India na manatili sa bahay kung saan sila ay mas ligtas mula sa kaguluhan sa labas. Nguni't parami nang parami ang mga babaeng nakakahanap ng lakas ng loob na baguhin yan. Ito ang kwento ng isang babae.* \r\n\r\nAko si Meenu, at nakatira ako sa Delhi, India kasama ang aking ina at 5 mga kapatid. Ang aking ama ay namatay noong ako ay 5 taong gulang kaya pinalaki kami ng aking ina nang mag-isa, sa kanyang maliit na sahod. \r\n\r\nAng aking ina ay hindi nakapag-aral, at noong siya ay 15 taong gulang, pinakasal siya ng kanyang pamilya. Madalas niyang sabihin na kung nakapag-aral lang siya, mabibigyan niya sana kami ng mas magandang buhay.  Kaya sinabi niya na dapat kaming mag-aral.  Tinulungan niya kaming manatili sa paaralan at magtrabaho nang mabuti para maging mas maganda ang aming buhay kaysa sa naging buhay niya. \r\n\r\nPakiwari ng aming mga tiyuhin na sinasayang ng aming ina ang panahon niya. Sabi nila na dapat kaming makapag-asawa para iba na ang mamroblema para sa amin. Nguni't nakinig ako sa aking ina at nag-aral malapit sa aking mahirap na pook. \r\n\r\nSinabi sa akin ng aking ina na huwag kunin ang atensiyon ng mga lalaki. Sabi niya na maaaring mapanganib kapag nagpakita ng interes ang mga lalaki. Kapag magkwento (o kahit na magsinungaling) ang mga tao tungkol sa pagbibigay ng atensiyon ng mga lalaki sa akin, maaari itong magdala ng kahihiyan sa aming pamilya - o karahasan sa akin. Nakita ito ng sarili kong mga mata. \r\n\r\nPagkatapos kong gumraduwet sa pag-aaral, nanatili ako sa bahay. Alam ko na maraming mga lalaki sa aking mahirap na pook ang nagsabi na babantayan nila ako. Gayun pa man, ang pagpunta sa labas malapit sa mga lalaki ay nakakatakot. Pakiramdam ko na mas ligtas ako sa aking bahay kung saan maaari akong mangarap. \r\n\r\nHindi ako lumalabas ng bahay para maghanap ng trabaho. Pakiramdam ko na wala akong pag-asa, walang pakinabang at natatakot na hindi magkatotoo ang akong mga pangarap.  \r\n\r\nIsang araw, inutusan ako nga aking ina. Habang naglalakad ako sa kalsada, nakilala ko ang isang babae. Inanyayahan niya akong sumali sa isang klase sa kompyuter para lang sa mga babae. Natakot ako kasi hindi pa ako nakagamit ng kompyuter noon. Takot na takot akong pumunta sa kompyuteran nang nag-iisa, kaya sinabi sa akin ng aking ina na magpasama sa isang kaibigan. \"Panahon na para maging matapang, Meenu,\" sabi niya. \r\n\r\nNatuto ako tungkol sa kompyuter, mga karapatan ng mga babae, at pagtrabaho nang sama-sama para sa komunidad, at ito ay nagpasaya at nagpatatag sa akin. Nang natapos ang aking pagsasanay, naging boluntaryo ako sa sentro ng Feminist Approach to Technology para magturo sa ibang mga babae. Pakiramdam ko, handa na akong magprisinta para sa trabahong telemarketing at masaya akong umuwi at sabihin sa aking pamilya na natanggap ako! \r\n\r\nSabi ng aking ina na hindi niya mahintay na makita ang hitsura ng mukha ng aking ama kapag sinabi niya na ang kanyang anak na babae ay kumikita para sa pamilya! Kumita ako ng sapat para mabayaran ang kasal ng aking kapatid na babae.\r\n\r\nNatutunan ko na hindi ako dapat manliit kanino man. Hindi ko kailangang makaramdam ng takot o magtago sa mga kanto mula sa mga lalaki. Nagkaroon ako ng tapang para tumayo para sa aking sarili at sa ibang mga babae ng Delhi. Ang aming pinagsama-sama boses ay hihiling ng mga pagbabago, at naririto kami para sa isa't-isa hanggang magiging ligtas ang Delhi para sa mga babae.\r\n\r\nBasahin ang karagdagan tungkol sa kwento ni Meenu sa [grassrootsgirls.tumblr.com][1]. \r\n\r\n\r\n  [1]: http://grassrootsgirls.tumblr.com", 
   "source": "39a7d39af40f485e94bd6b7ab6558f56", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Meenu", 
   "uuid": "6c1067ebea3a4bd5a401d74981336caa"
