@@ -6,15 +6,17 @@
   "primary_category": "2fdcd42cb85d4896a9849015c8918f65", 
   "created_at": "2015-02-03T21:58:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T22:02:34.841618+00:00", 
+  "modified_at": "2015-02-27T07:47:48.618591+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "de81fc166c674308a17e0a288eb14370"
+  ], 
   "id": null, 
   "content": "*Iniisip ng ilang tao na may mga trabahong hindi kayang gawin ng mga babae! Ang ilang bansa ay may mga batas pa nga para supilin ito. Ito ang kwento ng isang babae.*\r\n\r\nAko si Eugenie, ako ay 18 taong gulang at nakatira sa Rwanda. Malungkot ang naging simula ng aking kwento - namatay ang aking ama at mga kapatid at naiwan kami ng aking ina na mag-isa.  Ang aking ina ay kagilas-gilas.  Sa kabila ng kahirapan, ipinakita niya sa akin kung paano umasa sa aking sarili at magtrabaho nang mabuti.  Siya ang aking bayani. Pagkatapos, nagkaroon ako ng pagkakataon na suklian siya sa mga nagawa niya para sa akin!\r\nNoong ako ay nasa paaralang primarya, wala kaming kuryente sa bahay. Ito ay lubos na nagpahirap sa mga trabaho at gawaing-bahay. Pinagsikapan kong tapusin ang gawaing-bahay gamit ang ilaw ng kandila. Nagsimula akong mangarap kung gaano kahalagang magdala ng liwanag sa aking tahanan. Sa sumunod na taon, ito lang ang inisip ko. Nangarap akong maging isang elektrisista. Gusto kong ipakita na maaari akong mag-aral nang mabuti at maging mahusay - kahit higit pa sa mga lalaki sa paaralan!   Ako ang maaaring magdala ng liwanag sa aming bayan.\r\nSa dakong huli, nakipag-usap ako sa isang elektrisista sa lungsod. Tinuruan niya akong magkabit ng mga kable sa isang baterya at lumikha ng elektrisidad. Matapos ang kaunting pagsanay, nakuha ko ito nang tama! \r\nNang nakita ng aming mga kapitbahay ang nagawa ko, gusto rin nilang magkroon ng elektrisidad sa kanilang mga tahanan. Nagawa ko ito, binigyan ko sila ng elektrisidad at siningil sila ng kaunting halaga para lumiwanag din ang kanilang mga tahanan. Ang perang kinita ko bilang elektisista ng komunidad ay napunta sa matrikula.  \r\nNgayon, ako ay nasa ika-limang taon ng nhinyeriyang pang-elektrikal sa isang napakagandang kolehiyo sa Rwanda. \r\nAng payo ko sa mga babae ay mag-aral nang mabuti.  Walang trabaho na para lamang sa mga lalaki. Mahalaga para sa mga babae na mag-aral din ng mga teknikal na asignatura! Ang mga babae ay magaling na maging mga siyentista, inhinyero at mananaliksik. Kaya kung interesado kayo sa bagay na ito, mag-aral nang mabuti at huwag mawalan ng pag-asa. Sama-sama, magagawa nating maging higit na maganda ang mundo!\r\n\r\n**Bakit kailangang mag-aral nang mabuti? Basahin ang lathalang ito para  malaman:**\r\n", 
   "source": "bcd944ba380f440c809ec53c0c152581", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Eugenie", 
   "uuid": "be3702a9b53142e69f38d37815d9796b"
