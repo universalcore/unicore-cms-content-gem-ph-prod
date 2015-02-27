@@ -6,15 +6,17 @@
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-02-03T22:40:43.977353+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T22:40:43.977543+00:00", 
+  "modified_at": "2015-02-27T05:42:41.866441+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "2e76e834ef574ec99ec8f2cae026c85e"
+  ], 
   "id": null, 
   "content": "**PAANO NINYO SABIHIN ANG HINDI?   HERE'S HOW:**\r\n\r\nPlanuhin ito. Isipin itong mga sitwasyon nang maaga. Planuhin kung paano kayo magsasabi ng 'hindi.\" Sabihin nang malakas ang salita at sa iba't-ibang mga paraan. Mag-ensayo sa harap ng salamin o sa pinagkakatiwalaang kaibigan.\r\n\r\nIwasan ito. Iwasang sumama sa mga taong magpapabalisa o susubok na ipagawa sa inyo ang mga bagay na ayaw ninyo. \r\n\r\nSabihin ito nang malakas. Kung susubukan ng isang taong ipagawa sa inyo ang isang bagay na alam ninyong hindi ninyo dapat gawin o isang bagay na nagpapanerbiyos, sabihin ang HINDI nang malakas.  O kaya, sabihin na \"Salamat pero hindi. Hindi ko magagawa iyan.' \r\n\r\nGawin ang tamang bagay:  Itanong sa inyong sarili kung ano ang magiging resulta? Ano ang maaaring mangyaring masama? Ano ang sasabihin ng inyong mga kaibigan o pamilya kung ito ang pipiliin ninyo? \r\n\r\nIwasan ang pagbubuntis. Kung gusto ninyong iwasan ang pagbubuntis kapag nakipagtalik, kailangang gumamit ng pang-iwas mabuntis na pinakaangkop sa inyo. Ang ilang mga pang-iwas mabuntis ay maaaring ibigay nang libre ng pamahalaan, klinika o ibang mga organisasyon. Hanapin sa inyong lugar para malaman kung saan ninyo makukuha ito. Ang mga kondom ay nakakapigil sa pagbuntis at nakakaprotekta sa inyo mula sa nakakahawang mga sakit na nakukuha sa pakikipagtalik. \r\n\r\nSaan mang sulok ng daigdig, maraming babae ang nabubuntis bago pa man sila naging handa. Si Khadija na mula sa Malawi ay isa sa mga babaeng ito. Ito ang kanyang kwento:. \r\n", 
   "source": "eb349473ac504a04aa77217ee441e27a", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-know-how-say-no", 
   "uuid": "9eb9fca3a3ff4e6c863faf4194bd8ab4"
