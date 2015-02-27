@@ -6,15 +6,17 @@
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-02-03T19:58:37.491157+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T19:58:37.491340+00:00", 
+  "modified_at": "2015-02-27T07:48:04.926594+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6c1067ebea3a4bd5a401d74981336caa"
+  ], 
   "id": null, 
   "content": "**PANATILIHING LIGTAS ANG INYONG SARILI**\r\n\r\nSa kasamaang-palad, ang ating mundo ay madalas na hindi ligtas at payapa - lalo na sa mga babae at dalaga. Ang panggugulo dahil sa kasarian ay maaaring mangyari sa mga babae sa kanilang mga tahanan, paaralan, palengke, at trabaho, o saanman. Dapat handa kayo para sa ganitong mga sitwasyon.\r\n\r\nNarito ang ilang mga bagay na maaari ninyong GAWIN para tulungan na maging ligtas ang inyong sarili:\r\n\r\n - Iwasan ang mapanganib na mga lugar: Kung alam ninyo na ang ilang lugar na pupuntahan ay nagdadala ng pisikal o ibang panganib - piliting iwasan ang pagpunta doon hanggang maaari.\r\n - Magkaroon ng buddy system: pumunta sa mga pampublikong lugar kasama ang isa o higit pang mga kaibigan - huwag pumunta mag-isa! \r\n - Maghanap ng mapagkakatiwalaang tsaperon: kung sa pakiwari ninyo ay hindi kayo ligtas sa ilang mga lugar sa ilang mga pagkakataon (gaya ng paglakad patungo o mula sa paaralan), nguni't DAPAT NINYONG PUNTAHAN, magpasama kayo ng isang taong pinagkakatiwalaan ninyo.\r\n - Laging sabihin sa kasama ninyo kung saan/kailan kayo pupunta at kung kailan kayo babalik. Kung maaari, magkaroon ng ibang tao na sasalubong sa inyo sa inyong pupuntahan. Sa ganitong paraan, kung may mangyayari sa inyo, malalaman ng iba at masosolusyunan nila.\r\n - SABIHIN sa mga nasa hustong gulang kapag may nangyari sa inyo o sa inyong mga kaibigan - at hikayatin silang tumulong na lutasin at huwag nang maulit ang mga problema!\r\n - GUMAWA NG PLANO: Humanap ng pinagkakatiwalaang tao na maaari ninyong lapitan kung may mangyayaring\r\nmasama. Tiyakin na alam ninyo kung saan hanapin ang taong ito o kung paano sila matawagan kapag nangailangan kayo ng tulong. Makipag-usap sa iba ninyong mga kaibigan tungkol sa paghanap ng mga taong maaari ninyong pagkakatiwalaan at sa pagiging ligtas ng bawat isa.\r\n\r\n**Inaasahan ang maraming babae at dalaga sa India na manatili sa bahay kung saan sila mas ligtas mula sa kaguluhan sa labas. Nguni't parami nang parami ang mga babaeng nakakahanap ng lakas ng loob na baguhin yan. Basahin ang kwento ng isang babae.**\r\n\r\n", 
   "source": "98f5f3cb3bc54e88a8937972eb3ee25c", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "keep_yourself_safe", 
   "uuid": "281b7519e4624b0ba2c9119d0e4d7dda"
