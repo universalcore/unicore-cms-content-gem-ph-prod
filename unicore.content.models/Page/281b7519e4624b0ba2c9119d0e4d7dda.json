@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "ILANG MGA BAGAY NA MAAARI NINYONG GAWIN", 
+  "description": "Ilang mga bagay na maari ninyong gawin", 
   "language": "tgl_PH", 
-  "title": "PANATILIHING LIGTAS ANG INYONG SARILI", 
+  "title": "Panatilihing ligtas ang inyong sarili", 
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
-  "created_at": "2015-02-03T19:58:37.491157+00:00", 
+  "created_at": "2015-02-03T19:58:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-27T07:48:04.926594+00:00", 
+  "modified_at": "2015-03-01T02:45:04.527546+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 10, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "keep_yourself_safe", 
   "uuid": "281b7519e4624b0ba2c9119d0e4d7dda"
