@@ -1,14 +1,14 @@
 {
   "subtitle": "", 
   "uuid": "2fdcd42cb85d4896a9849015c8918f65", 
-  "language": "tgl_PH", 
+  "language": "fil_PH", 
   "title": "Mga Bayaning Babae", 
   "image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "girl-heroes", 
