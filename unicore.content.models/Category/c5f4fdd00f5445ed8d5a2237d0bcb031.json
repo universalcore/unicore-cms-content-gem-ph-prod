@@ -1,19 +1,19 @@
 {
   "subtitle": "", 
   "uuid": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
-  "language": "tgl_PH", 
+  "language": "fil_PH", 
   "title": "Mga Tip sa Buhay", 
   "image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "life-tips", 
   "source": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "featured_in_navbar": true, 
   "id": null
