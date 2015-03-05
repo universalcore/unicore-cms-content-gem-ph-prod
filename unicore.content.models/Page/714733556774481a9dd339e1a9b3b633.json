@@ -6,12 +6,12 @@
   "primary_category": "2fdcd42cb85d4896a9849015c8918f65", 
   "created_at": "2015-02-03T21:49:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-05T06:03:49.376881+00:00", 
+  "modified_at": "2015-03-05T06:06:32.288492+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 12, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Aurore", 
   "uuid": "714733556774481a9dd339e1a9b3b633"
