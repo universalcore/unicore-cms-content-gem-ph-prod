@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Basahin itong mga tip:", 
-  "language": "tgl_PH", 
+  "language": "fil_PH", 
   "title": "Paano ninyo sabihin ang hindi?", 
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-02-03T22:40:43+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-01T02:32:07.288682+00:00", 
+  "modified_at": "2015-03-05T06:03:07.182578+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-know-how-say-no", 
   "uuid": "9eb9fca3a3ff4e6c863faf4194bd8ab4"
