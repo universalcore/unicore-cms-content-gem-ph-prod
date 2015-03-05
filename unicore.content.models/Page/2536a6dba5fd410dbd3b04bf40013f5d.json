@@ -6,12 +6,12 @@
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-02-03T22:19:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-05T06:03:24.067181+00:00", 
+  "modified_at": "2015-03-05T06:06:27.548768+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 9, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-struggling-find-direction", 
   "uuid": "2536a6dba5fd410dbd3b04bf40013f5d"
