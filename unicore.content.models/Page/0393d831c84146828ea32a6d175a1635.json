@@ -1,20 +1,22 @@
 {
   "subtitle": "", 
   "description": "KAYO AY MAY MGA KARAPATAN ", 
-  "language": "tgl_PH", 
+  "language": "fil_PH", 
   "title": "KAYO BA AY MINAMALTRATO? ", 
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
-  "created_at": "2015-03-02T16:54:20.479712+00:00", 
+  "created_at": "2015-03-02T16:54:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-02T16:54:20.479913+00:00", 
+  "modified_at": "2015-03-05T06:02:41.865280+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "dfb14820b7414a8189c1f7a6e313f6f8"
+  ], 
   "id": null, 
   "content": "**KAYO BA AY MINAMALTRATO? KAYO AY MAY MGA KARAPATAN** \r\n\r\n\u25cf\tSa ilang mga bansa, ang mga babae at mga dalagita ay may mga kapatan gaya ng mga lalaki na naaayon sa batas, at itinuturing bilang mga kapareho nila sa lahat ng aspeto. Nguni't ito ay hindi laging ipinapatupad sa bahay. \r\n\u25cf\tKayo ay may karapatan na tratuhin nang may respeto at maging ligtas at maayos sa inyong tahanan. Kung sakaling ito ay kabaliktaran, makipag-usap sa isang taong pinagkakatiwalaan ninyo gaya ng isang guro o lider ng iyong nayon. Ang problema ay maaaring ibahagi upang mapagaan ang dinadala.  \r\n\u25cf\tKung tinatakot kayo ng isang nakakatanda sa inyo sa pamamagitan ng pagsigaw o pananakit sa inyo, ito ay maaaring pang-aabuso at mali.  Humanap ng isang nasa hustong gulang na pinagkakatiwalaan ninyo upang tulungan kayo.\r\n\u25cf\tWalang kasing-sakit na karanasan para sa isang bata ang mawalan ng isang magulang - huwag na ang pareho. Ang lumaki nang walang magulang o nasa hustong gulang na kakalinga sa inyo ay nangangahulugan na kayo ay mas nalalagay sa peligro. Nguni't kayo ay may karapatan pa rin sa edukasyon at pangangalaga sa kalusugan. \r\n\r\nNoong si Preity ay bata pa, nanuluyan siya sa kanyang tiyahin at tiyuhin. Siya ay pinaniwala nila na may karapatan silang bugbugin at maltratuhin siya. Ito ang kanyang kwento:\r\n", 
   "source": "47260361e5c6462abdb32b5658f52aef", 
