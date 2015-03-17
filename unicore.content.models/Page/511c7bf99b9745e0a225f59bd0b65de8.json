@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "fil_PH", 
+  "title": "Mga Tip sa Paggamit:", 
+  "primary_category": null, 
+  "created_at": "2015-03-17T11:07:48.762200+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-17T11:07:48.762386+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "May ilang pangunahing mga tuntunin na dapat ninyong sundin para matiyak na kayo at ang iba ay manatiling ligtas at masiyahan sa paggamit ng mobile website na Girl Effect. Kung lumabag kayo sa mga tuntuning ito, maaari kayong makatanggap ng babala, probisyon na pansamantala o permanente. Ito ang mga tuntunin:\r\n\r\n - Ang panggugulo at pananakot sa iba ay hindi pahihintulutan.\r\n - Igalang ang mga nakababatang gumagamit at huwag gumamit ng masama, bastos o masakit na salita o magmungkahi ng mga ugnay sa materyal na malaswa o nakakasakit.\r\n - Huwag ibigay ang inyong personal na impormasyon. Huwag kailanman sabihin sa tao:\r\n       - ang inyong tunay na pangalan (mag-imbento ng palayaw),\r\n       - ang inyong edad,\r\n       - ang inyong tirahan,\r\n       - ang pangalan ng inyong paaralan,\r\n       - ang inyong email address o numero ng telepono, o\r\n       - anumang impormasyon sa pananalapi o mga password\r\n\r\n - Iwasang makipagkita sa mga taong nakilala ninyo online. Nguni't kung kailangan ninyong magkikita, tiyakin na may kasama kayong taong nasa hustong gulang, o magulang o tagapag-alaga.\r\n\r\nHindi kayo dapat gumamit ng ganitong serbisyo kung kayo ay wala pang 13 taong gulang, maliban na lang kung kayo ay may pahintulot ng inyong magulang o tagapag-alaga at ginagamit ninyo ang mga serbisyo sa ilalim ng kanilang pangangasiwa. Ang mobile website ng Girl Effect ay naaangkop para sa mga gumagamit na 13 taon ang edad o higit pa.\r\n", 
+  "source": "e047ae80d6f44ef8b15d32b05002bece", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "tips", 
+  "uuid": "511c7bf99b9745e0a225f59bd0b65de8"
+}
