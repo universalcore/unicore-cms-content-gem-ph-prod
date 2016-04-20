@@ -5,13 +5,13 @@
   "title": " Paano mag-impok kasama ang isang kaibigan! ", 
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-12-31T06:03:57+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-01-18T18:13:19.425341+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T19:45:07.659457+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 17, 
+  "position": 25, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-save-friend", 
   "uuid": "6d6d819a252042ecaf59655e2215e0fb"
