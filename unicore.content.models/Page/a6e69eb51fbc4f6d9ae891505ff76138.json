@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": " Dos & Don\u2019ts to send pimples packing ", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2015-12-21T10:59:37.604631+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-12-21T10:59:37.604851+00:00", 
+  "created_at": "2015-12-21T10:59:37+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T19:45:51.351064+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 28, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "dos-donts-send-pimples-packing", 
   "uuid": "a6e69eb51fbc4f6d9ae891505ff76138"
