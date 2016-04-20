@@ -6,12 +6,12 @@
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-02-03T22:49:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-20T19:54:18.953542+00:00", 
+  "modified_at": "2016-04-20T20:37:27.636588+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,7 +20,7 @@
   "id": null, 
   "content": "**NAGSIMULA NA BA KAYONG REGLAHIN?  NARITO ANG ILANG MGA KATOTOHANAN:**\r\n\r\n - Buwan-buwan, ang inyong mga obaryo ay magpapakawala ng itlog, at ang aporo ng inyong matris (bahay-bata) ay kakapal sa pag-asang magdadala ito ng bilig - na nangyayari kapag ang itlog ay nabuo (sa ibang salita, kapag kayo ay nabuntis). Kung ang itlog ay hindi nabuo sa buwan na iyon, ang aporo ng matris ay masisira at ang parehong itlog at aporo ay ilalabas mula sa inyong katawan - ito ang inyong regla. \r\n - Kung kayo ay payat, maaaring hindi kayo magkaregla o maaaring ito ay dadating-titigil. Titigil ang inyong regla kung kayo ay walang sapat na taba, sobrang pagod o walang sapat na hiyero sa inyong dugo. Kung mangyayari ito, dapat kayong magpatingin sa isang nars o doktor. \r\n - Ang inyong katawan ay nagpapadala sa inyo ng paalala kapag hindi kayo nagkaregla, kaya dapat itong pagtuunan ng pansin. Subukang kumain ng masusustansiyang pagkain at magkaroon ng sapat na tulog. Kung hindi kayo magkakaregla ng ilang buwan, dapat kayong magpatingin sa isang nars o doktor. Kapag nagsimula kayong magkaregla, kaya na ninyong mabuntis at magkaroon ng sanggol kung kayo ay makipagtalik. Dapat ninyong tiyakin na may proteksiyon kayo kung hindi pa kayo handang magkaroon ng sanggol.\r\n - Normal na magkaroong ng pulikat sa inyong tiyan sa panahon ng regla. Kung masakit ang inyong pagregla, makatulong kung maglagay kayo ng bag na may maligamgam na tubig sa inyong tiyan nang ilang minuto. Mabuting mag-ehersisyo nang magaan gaya ng paglakad-lakad kaysa sa manatili sa isang lugar. Kung sobrang masakit, mangyaring magpatingin sa isang doktor. Kung walang nakahandang mga napkin at gumagamit kayo ng tela, tiyaking malambot, nalinis at napatuyo nang tama ang tela.\r\n\r\n**Saan mang sulok ng mundo, ang mga babae ay kadalasang nagkakaregla mula 12-14 taong gulang, nguni't maaari silang magkaroon nang mas maaga o mas huli. Ang pagkakaroon ninyo ng regla ay maaaring kagulat-gulat o kakatakot. Ito ay kwento ng isang babae.**", 
   "source": "cc4732e92c2e46b2869509b918eba825", 
-  "featured": false, 
+  "featured": true, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
