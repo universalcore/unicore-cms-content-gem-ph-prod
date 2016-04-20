@@ -6,12 +6,12 @@
   "primary_category": "c5f4fdd00f5445ed8d5a2237d0bcb031", 
   "created_at": "2015-12-31T08:54:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-20T19:50:06.097699+00:00", 
+  "modified_at": "2016-04-20T20:37:13.019467+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,7 +20,7 @@
   "id": null, 
   "content": "Ang mga kaugalian gaya ng pagkain ng sariwang mga gulauy at ang pag-ehersisyo ay maganda para sa iyong katawan; ang mga kaugalian gaya ng pagkain ng matatamis at pritong pagkain, paninigarilyo at sobrang pag-inom ng alak ay masama. Tumatagal ng karaniwang tatlong linggo bago mabuo ang isang kagawian, kaya lumabas at magsimulang bumuo ng magagandang kagawian - ikaw ay mas magiging masaya, mas may-kompiyansa, mas malakas at mas malusog.\r\n\r\nSagutan ang maikling pagsusulit upang malaman kung paano:\r\n\r\nMga tagubilin\r\nBasahin ang mga tanong sa ibaba. Pumili ng sagot na A, B o K para sa bawat tanong at pagkatapos iklik para sa susunod na pahina upang malaman kung gaano ka kalusog. \r\n\r\nAng pagmiryenda sa pagitan ng mga pagkain ay hindi laging masama basta nakukuha mo ang tamang balanse! \r\n\r\nIkaw ba ay:\r\nA: Nagmimiryenda ng kahit na anong pagkain, kahit na prutas?\r\nB: Nagmimiryenda kahit hindi ka gutom?\r\nK: Nagmimiryenda lamang ng mga tsokolate, keyk, matatamis, pritong pagkain gaya ng mga tsitsirya?\r\n\r\nNapakahalaga na mag-ehersisyo o sumali sa nakakatuwang gawain na nagpapagalaw sa iyong katawan. \r\n\r\nIkaw ba ay:\r\nA: Lumalabas at gumagalaw araw-araw, kahit na ito ay nakakatuwang laro, pagtak[t]bo o paglakad sa labas kasama ang iyong mga kaibigan?\r\nB: Sumasali lamang sa isports o mga ehersisyo kung ito ay bahagi ng klase o inorganisa ng paaralan?\r\nK: Mas gustong manatili sa loob at hindi gaanong lumalabas?  \r\n\r\nAno ang mangyayari kung may naninigarilyo sa paligid mo?\r\n\r\nIkaw ba ay:\r\nA: Magsasabi kung gaano kasama ito para sa kanila at sa iyo? \r\nB:  Balewalain ito? \r\nK: Magtatanong kung may sigarilyo sila para sa iyo?\r\n\r\nIto ay katapusan ng linggo, oras na bumili ng pabuya! Ang mga pagpipilian na kasama sa iyong pagkain ay kanin at ensalada o mga tsitsirya.\r\n\r\nIkaw ba ay:  \r\nA: Pipili ng kanin at ensalada.\r\nB: Pipili ng tatlo.\r\nK: Kakain lamang ng tsitsirya.\r\n\r\nKapag nauuhaw ka, ano ang pipiliin mong inumin?\r\n\r\nA: Isang malaking baso ng tubig\r\nB: Minsan tubig nguni't mas gusto ko ang matatamis na inumin!\r\nK: Iinom ako ng kahit ano huwag lang tubig!\r\n", 
   "source": null, 
-  "featured": false, 
+  "featured": true, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
